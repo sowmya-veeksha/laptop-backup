@@ -1,0 +1,5 @@
+1. synchronous-all status
+2. upload file-all status
+3. meta data -all status
+4. Change code
+5. batch type and batch amount

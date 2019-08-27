@@ -1,0 +1,7 @@
+1. Download SVN tourtise
+2. create a empty folder
+3. right cick and create repo here
+4. create a Workspace
+5. right click and checkout
+6. now goto branch and create ur folder and paste ur code here
+7. then go back to WS and right click and commit SVN

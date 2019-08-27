@@ -1,0 +1,14 @@
+1. install python
+2. install pycharm ide
+3. install selenium package on python
+	1. goto pycharm location 
+	2. open cmd from here
+	3. python -m pip install --upgrade pip
+	4. pip install -U selenium
+4.install robot frame work
+	1. goto pycharm location 
+	2. open cmd from here
+	3. pip install robotframework
+	4. pip install robotframework-seleniumlibrary(latest lib of selenium)
+5. open pycharmIDE--> goto settings--> plugins--> search for intellibot selenium package(this is latest version)
+	--> install and restart ide

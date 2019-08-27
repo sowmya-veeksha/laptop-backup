@@ -1,0 +1,66 @@
+
+Lab URL: http://itsbebelsp00696.jnj.com:8500/RIACS
+Dev URL: http://itsbebelsp02380.jnj.com:8500/RIACS
+friendly URL: https://newriacs-it.jnj.com/RIACS
+QA:https://newriacs-qa.jnj.com/RIACS
+
+
+ ADMIN
+ITEST268/G^gJ&R*z
+ITEST267/:&t@a:4r
+ITEST266/U!MyBuRm
+
+
+ITS-APP-RIACS-CHGCREATOR_NONPROD
+ITEST290 /VsVnVhq4
+ITEST291 /4CfdBJ8W
+VSakthi1/jnj$1357
+
+ITS-APP-RIACS-CHGREVIEWER_NONPROD
+ITEST292 /Fu3W4bEk
+ITEST293 /JYTA7U7z
+Aharikri / Ajeet@1234
+
+ITS-APP-RIACS-CHGAPPROVER_NONPROD
+ITEST294 /HDSbv;2n
+ITEST295 /DdrqR9Xv
+arakarad/HARISH@12
+
+ITS-APP-RIACS-PRJCOORD_NONPROD
+ITEST296 /6k=k4asb                           
+ITEST297 /ks;LCPfH
+rkunjap/December@19
+jnarasap/jnj$1234
+
+ITS-APP-RIACS-PRJCONTRIB_NONPROD
+Vthiru/jnj$1359
+ITEST300/d:gQPcZ!
+ITEST299/k?hfeqXA														
+ITEST298/Cc5twGxJ
+
+CG510_RIACS_CMC_CONTRIBUTOR                                                                                                                               
+ITEST287/RG*jFW4?
+ITEST288/C%!lj%4x
+ITEST289/!UR^K%mV
+
+CG510_RIACS_PROJECT_VIEWER
+itest285/+R3C;^ap
+itest286/BLW3^wP9
+
+CG510_RIACS_PROJECT_COMMUNICATOR
+itest284/Lq%e8GVH
+itest283/mbPbP+nd
+
+													
+
+CG510_RIACS_REQUIREMENT_VIEWER
+ITEST280/4CL4ueX3
+ITEST281/c*5vqCXr
+ITEST282/NDbRVp4D
+
+
+gkoppise/jnj^2468
+
+
+https://jira.jnj.com/browse/AECU-1056
+https://jira.jnj.com/browse/AECU-956

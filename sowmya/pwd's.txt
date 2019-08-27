@@ -1,0 +1,15 @@
+ITReturns:
+
+ Pan:
+ Pwd: veeksha@8
+
+UAN:
+
+Username: UAN number
+pwd:veeksha@842011
+
+
+LIC:
+
+Usename: mobile number
+pwd: veeksha@8

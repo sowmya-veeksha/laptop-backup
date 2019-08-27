@@ -1,0 +1,24 @@
+Command Line:
+
+1. go to project folder and clone the repository
+2. open the git bash
+3. ls
+4. git status
+5. git add -A ( A is to add all file to repo)
+6. git commit -m "commit message" 
+7. git config --global user.email "sowmya.veeksha@gmail.com"
+8. git config --global user.name "Sowmya"
+9. git push
+
+
+Using GIT GUI:
+
+1. create a empty folder
+2. clone the repo here
+3. paste ur project here
+4. right click and GIT GUI here
+5. Shows the changes
+6. Rscan
+7. stage changed
+8. commit
+9. push
